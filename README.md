@@ -4,7 +4,7 @@
 #pip install -r requirements.txt
 
 
-#definir variaveis os.environ["SPARK_HOMME"], os.environ["JAVA_HOME"]
+#definir variaveis os.environ["SPARK_HOME"], os.environ["JAVA_HOME"]
 
 ```Python
 
